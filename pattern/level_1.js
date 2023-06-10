@@ -14,3 +14,4 @@ function star_patter(num_of_rows)
 
 var star_pattern = star_patter(5);
 console.log(star_pattern);
+console.log(star_pattern);
