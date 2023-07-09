@@ -7,7 +7,7 @@ function star_patter(num_of_rows)
         {
             return_variable += '*';
         }
-        return_variable += '/n';
+        return_variable += '\n';
     }
     return return_variable;
 }
